@@ -1,0 +1,11 @@
+﻿image_name,expected_label,extracted_url,decode_status
+phishing_0.png,phishing,https://keraekken-loagginnusa.godaddysites.com/,Success
+phishing_1.png,phishing,https://metamsk01lgiix.godaddysites.com/,Success
+phishing_2.png,phishing,http://myglobaltech.in/,Success
+phishing_3.png,phishing,http://djtool-for-spotify.com/,Success
+phishing_4.png,phishing,https://scearmcoommunnlty.com/invent/freind/get,Success
+legitimate_63492.png,legitimate,https://stackoverflow.com/questions/tagged/php,Success
+legitimate_63493.png,legitimate,https://stackoverflow.com/questions/tagged/microsoft-edge,Success
+legitimate_63494.png,legitimate,https://stackoverflow.com/questions/tagged/sql,Success
+legitimate_63495.png,legitimate,https://stackoverflow.com/questions/79030270/how-to-insert-a-char-into-stdvectorchar-fails-with-cannot-convert-argument,Success
+legitimate_63496.png,legitimate,https://stackoverflow.com/questions/tagged/java,Success

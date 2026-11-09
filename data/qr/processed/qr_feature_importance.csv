@@ -1,0 +1,17 @@
+Feature,Importance
+path_length,0.9875822412810822
+url_length,0.0031157371772388594
+https_flag,0.0029674516905085577
+dot_count,0.0017366842282439975
+token_count,0.0017203038467379394
+tld_popularity,0.0009810146934240084
+subdomain_count,0.000816453415453415
+domain_name_length,0.0004796136795551378
+url_entropy,0.0002926292604907203
+percentage_numeric_chars,0.0002887779496084833
+number_of_digits,1.909277765676129e-05
+has_ip_address,0.0
+query_param_count,0.0
+tld_length,0.0
+has_hyphen_in_domain,0.0
+suspicious_file_extension,0.0
