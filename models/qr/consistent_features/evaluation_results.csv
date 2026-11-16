@@ -1,0 +1,2 @@
+Model,Accuracy,Phishing_Precision,Phishing_Recall,Phishing_F1,ROC_AUC,PR_AUC,Phishing_Correct,Phishing_Missed,Legitimate_False_Alarm,Legitimate_Correct
+XGBoost,0.9917224287484511,0.989454772691767,0.9974801165446098,0.9934512372063841,0.9992731129724577,0.9996169978663875,12667,32,135,7341

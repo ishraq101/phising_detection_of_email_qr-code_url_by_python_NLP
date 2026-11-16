@@ -1,0 +1,10 @@
+url_length
+dot_count
+url_entropy
+token_count
+subdomain_count
+query_param_count
+tld_length
+has_hyphen_in_domain
+suspicious_file_extension
+domain_name_length
